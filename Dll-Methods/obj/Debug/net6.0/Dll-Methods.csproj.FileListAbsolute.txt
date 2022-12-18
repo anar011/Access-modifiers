@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Access modifiers, Dll, Methods practice\DLL-Methods\Dll-Methods\Dll-Methods\bin\Debug\net6.0\Dll-Methods.exe
+C:\Users\HP\Desktop\Access modifiers, Dll, Methods practice\DLL-Methods\Dll-Methods\Dll-Methods\bin\Debug\net6.0\Dll-Methods.deps.json
+C:\Users\HP\Desktop\Access modifiers, Dll, Methods practice\DLL-Methods\Dll-Methods\Dll-Methods\bin\Debug\net6.0\Dll-Methods.runtimeconfig.json
+C:\Users\HP\Desktop\Access modifiers, Dll, Methods practice\DLL-Methods\Dll-Methods\Dll-Methods\bin\Debug\net6.0\Dll-Methods.dll
+C:\Users\HP\Desktop\Access modifiers, Dll, Methods practice\DLL-Methods\Dll-Methods\Dll-Methods\bin\Debug\net6.0\Dll-Methods.pdb
+C:\Users\HP\Desktop\Access modifiers, Dll, Methods practice\DLL-Methods\Dll-Methods\Dll-Methods\obj\Debug\net6.0\Dll-Methods.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Access modifiers, Dll, Methods practice\DLL-Methods\Dll-Methods\Dll-Methods\obj\Debug\net6.0\Dll-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Access modifiers, Dll, Methods practice\DLL-Methods\Dll-Methods\Dll-Methods\obj\Debug\net6.0\Dll-Methods.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Access modifiers, Dll, Methods practice\DLL-Methods\Dll-Methods\Dll-Methods\obj\Debug\net6.0\Dll-Methods.AssemblyInfo.cs
+C:\Users\HP\Desktop\Access modifiers, Dll, Methods practice\DLL-Methods\Dll-Methods\Dll-Methods\obj\Debug\net6.0\Dll-Methods.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Access modifiers, Dll, Methods practice\DLL-Methods\Dll-Methods\Dll-Methods\obj\Debug\net6.0\Dll-Methods.dll
+C:\Users\HP\Desktop\Access modifiers, Dll, Methods practice\DLL-Methods\Dll-Methods\Dll-Methods\obj\Debug\net6.0\refint\Dll-Methods.dll
+C:\Users\HP\Desktop\Access modifiers, Dll, Methods practice\DLL-Methods\Dll-Methods\Dll-Methods\obj\Debug\net6.0\Dll-Methods.pdb
+C:\Users\HP\Desktop\Access modifiers, Dll, Methods practice\DLL-Methods\Dll-Methods\Dll-Methods\obj\Debug\net6.0\Dll-Methods.genruntimeconfig.cache
+C:\Users\HP\Desktop\Access modifiers, Dll, Methods practice\DLL-Methods\Dll-Methods\Dll-Methods\obj\Debug\net6.0\ref\Dll-Methods.dll
